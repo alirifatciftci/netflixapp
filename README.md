@@ -1,15 +1,7 @@
 ![Screenshot_1](https://github.com/user-attachments/assets/7fb2c3a7-2213-4065-960a-75d7bbb9dda7)
-
 ![Screenshot_2](https://github.com/user-attachments/assets/f15e84ae-aef4-4651-8d57-0306fdf23719)
-
 ![Screenshot_3](https://github.com/user-attachments/assets/348c2ef5-07f4-4f34-be68-a348c652b477)
-
 #![Screenshot_4](https://github.com/user-attachments/assets/fb39e6f1-f737-4383-907d-0aad86ac55ed)
-
-
-
-
-
 
 Welcome to your Expo app 👋
 
