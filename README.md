@@ -1,3 +1,4 @@
+Netflix tarzı React Native uygulaması. Kullanıcılar IMDb’den yüksek puanlı filmleri görebilir, film arayabilir, oyuncu adına göre film listesi çıkarabilir ve filmlerin detaylarını (özet, fragman, başrol oyuncuları) inceleyebilir. Modern ve kullanıcı dostu bir arayüz ile mobil film keşfi deneyimi sunar.
 ![Screenshot_1](https://github.com/user-attachments/assets/7fb2c3a7-2213-4065-960a-75d7bbb9dda7)
 ![Screenshot_2](https://github.com/user-attachments/assets/f15e84ae-aef4-4651-8d57-0306fdf23719)
 ![Screenshot_3](https://github.com/user-attachments/assets/348c2ef5-07f4-4f34-be68-a348c652b477)
